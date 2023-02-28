@@ -138,10 +138,6 @@ namespace Program
                 Console.ResetColor();
             }
         }
-        static void ChoiceUser()
-        {
-            
-        }
         static void BlockFirst()
         {
             int[] array = RandomArray();
