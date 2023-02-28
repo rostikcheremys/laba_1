@@ -152,7 +152,6 @@ namespace Program
         {
             int[] array = ArrayInputSpace();
             CheckNegativeThird(array);
-            
         }
         public static void Main(string[] args)
         {
